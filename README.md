@@ -18,6 +18,16 @@
 <a href="https://leetcode.com/u/phghatage1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phghatage1" height="30" width="40" /></a>
 </p>
 
+<h1 align="center">Projects</h1>
+
+|                       Explora                       |                   Portfolio                     |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) |
+
+|                     Thunder-Tube                      |
+| --------------------------------------------------------| 
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) | 
+
 <h2 align="center">Languages and Tools:</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
