@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Parag<br><br>A passionate full stack developer from India</h1>
+<h1 align="center">Hi 👋, I'm Parag<br><br>A passionate machine learning enthusiast on a journey to build innovative solutions through AI</h1>
 
-###
 
 <p align="center">👨‍💻 All of my projects are available at </p>
 <p align="center">https://paragghatage.com</p>
@@ -21,13 +20,15 @@
 
 <h1 align="center">Projects</h1>
 
-|                       Explora                       |                   Portfolio                     |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) |
 
-|                     Thunder-Tube                      |
-| --------------------------------------------------------| 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) | 
+|                       NeuroCure                       |                   Explora                     |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) |
+
+|                       Portfolio                       |                  Thunder-Tube                   |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) |
+
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="left">
