@@ -20,15 +20,17 @@
 
 <h1 align="center">Projects</h1>
 
-
-|                       NeuroCure                       |                   Explora                     |
+|                       NeuroCure                       |                   Briefly                       |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=ambient_gradient)](https://briefly-law.vercel.app/) |
 
-|                       Portfolio                       |                  Thunder-Tube                   |
+|                       Portfolio                       |                  Explora                   |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou)|
 
+|                       Thunder-Tube                        |
+| --------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) | 
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="left">
