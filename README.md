@@ -1,80 +1,117 @@
-<h1 align="center">Hi 👋, I'm Parag<br><br>A passionate machine learning enthusiast on a journey to build innovative solutions through AI</h1>
+<h1 align="center">Hey there! 👋 I'm Parag<br>Building the Future with AI & Machine Learning 🚀</h1>
 
+<p align="center">I'm a passionate machine learning enthusiast who thrives on solving complex problems through innovation and cutting-edge technology. Let's push the boundaries of AI together!</p>
 
-<p align="center">👨‍💻 All of my projects are available at </p>
-<p align="center">https://paragghatage.com</p>
+---
 
-<p align="center"> 📫 Get in touch </p>
-<p align="center"><a href="mailto:thunderwolf.dev@gmail.com">thunderwolf.dev@gmail.com</a></p>
+<h3 align="center">👨‍💻 Check Out My Work:</h3>
+<p align="center">
+  <a href="https://paragghatage.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FFA500.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+---
 
 
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://x.com/PARAG_GHATAGE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paragghatage" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/parag-ghatage-09685a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag ghatage" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/paragghatage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parag_ghatage_35" height="30" width="40" /></a>
-<a href="https://instagram.com/parag_ghatage_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parag_ghatage_35" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/phghatage1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phghatage1" height="30" width="40" /></a>
+  <a href="mailto:thunderwolf.dev@gmail.com" target="blank"><strong>thunderwolf.dev@gmail.com</strong></a>
 </p>
+
+<p align="center">
+  <a href="https://x.com/PARAG_GHATAGE" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paragghatage" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/parag-ghatage-09685a314/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag ghatage" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/paragghatage" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parag_ghatage_35" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/parag_ghatage_35" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parag_ghatage_35" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/phghatage1/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phghatage1" height="30" width="40" />
+  </a>
+</p>
+
+
 
 <h1 align="center">Projects</h1>
 
-|                       NeuroCure                       |                   Briefly                       |
+|                       NeuroCure                       |                   Artify                       |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=ambient_gradient)](https://briefly-law.vercel.app/) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Artify&theme=ambient_gradient)](https://artify-art-three.vercel.app) |
 
-|                       Portfolio                       |                  Explora                   |
+|                       Briefly                       |                  Explora                   |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou)|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=ambient_gradient)](https://briefly-law.vercel.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) |
 
-|                       Thunder-Tube                        |
-| --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) | 
+|                       Portfolio                       |                  Thunder-Tube                   |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) |
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages, Tools, and Frameworks</h2>
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <!-- Full Stack Development -->
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" />
+
+  <br/><br/>
+
+  <!-- Machine Learning & Deep Learning -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=keras" height="40" alt="Keras logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=scikit" height="40" alt="Scikit-learn logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV logo" />
+
+  <br/><br/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="Amazon Web Services logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
 </div>
 
 ###
