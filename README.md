@@ -18,7 +18,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="mailto:thunderwolf.dev@gmail.com" target="blank"><strong>thunderwolf.dev@gmail.com</strong></a>
+  <a href="mailto:parag.dev2025@gmail.com" target="blank"><strong>parag.dev2025@gmail.com</strong></a>
 </p>
 
 <p align="center">
