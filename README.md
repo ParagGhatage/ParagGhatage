@@ -3,7 +3,9 @@
 <p align="center">I'm a passionate machine learning enthusiast who thrives on solving complex problems through innovation and cutting-edge technology. Let's push the boundaries of AI together!</p>
 
 ---
+<p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/ParagGhatage/count.svg"/></p>
 
+---
 <h3 align="center">👨‍💻 Check Out My Work:</h3>
 <p align="center">
   <a href="https://paragghatage.com" target="_blank">
