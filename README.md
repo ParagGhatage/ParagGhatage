@@ -27,7 +27,7 @@
   <a href="https://x.com/PARAG_GHATAGE" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paragghatage" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/parag-ghatage-09685a314/" target="blank">
+  <a href="https://www.linkedin.com/in/paragg1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag ghatage" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/paragghatage" target="blank">
