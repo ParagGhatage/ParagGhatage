@@ -53,10 +53,6 @@
 | --------------------------------------------------- | --------------------------------------------------- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=ambient_gradient)](https://briefly-law.vercel.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) |
 
-|                       Portfolio                       |                  Thunder-Tube                   |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Portfolio&theme=ambient_gradient)](https://paragghatage.com) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Thunder-Tube&theme=ambient_gradient)](https://thunder-tube.vercel.app/) |
-
 <h2 align="center">Languages, Tools, and Frameworks</h2>
 
 <div align="left">
