@@ -44,11 +44,12 @@
 
 <div align="center">
 
-| [![NeuroCure](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=github_dark&hide_border=true)](https://neuro-cure-frontend.vercel.app) | [![Artify](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Artify&theme=github_dark&hide_border=true)](https://artify-art-three.vercel.app) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Briefly](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=github_dark&hide_border=true)](https://briefly-law.vercel.app) | [![Explora](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=github_dark&hide_border=true)](https://explora.cyou) |
+| [![ZeroML](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=ZeroML&theme=github_dark&hide_border=true)](https://zeroml.dev) | [![Perspective](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Parag-Perspective&theme=github_dark&hide_border=true)](https://perspective-aossie.vercel.app/) |
+| --- | --- |
+| [![NeuroCure](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=github_dark&hide_border=true)](https://neuro-cure-frontend.vercel.app) | [![Explora](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=github_dark&hide_border=true)](https://voyagevista-beige.vercel.app) |
 
 </div>
+
 
 
 <h2 align="center">Languages, Tools, and Frameworks</h2>
