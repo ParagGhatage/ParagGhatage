@@ -40,16 +40,16 @@
 </p>
 
 
+<h1 align="center">🚀 Projects</h1>
 
-<h1 align="center">Projects</h1>
+<div align="center">
 
-|                       NeuroCure                       |                   Artify                       |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=ambient_gradient)](https://neuro-cure-frontend.vercel.app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Artify&theme=ambient_gradient)](https://artify-art-three.vercel.app) |
+| [![NeuroCure](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=NeuroCure&theme=github_dark&hide_border=true)](https://neuro-cure-frontend.vercel.app) | [![Artify](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Artify&theme=github_dark&hide_border=true)](https://artify-art-three.vercel.app) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Briefly](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=github_dark&hide_border=true)](https://briefly-law.vercel.app) | [![Explora](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=github_dark&hide_border=true)](https://explora.cyou) |
 
-|                       Briefly                       |                  Explora                   |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Briefly&theme=ambient_gradient)](https://briefly-law.vercel.app/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParagGhatage&repo=Explora&theme=ambient_gradient)](https://explora.cyou) |
+</div>
+
 
 <h2 align="center">Languages, Tools, and Frameworks</h2>
 
